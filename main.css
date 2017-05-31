@@ -5,3 +5,7 @@ input {
 input[type="radio"] {
 	display: inline;
 }
+
+label {
+	display: block;
+}
